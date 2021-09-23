@@ -8,4 +8,5 @@ In this project I build a simple version of Simon Game.  It is simple game which
   <li>HTML</li>
   <li>CSS</li>
 <li>JavaScript</li>
+  <li>JQuery</li>
   </ul>
